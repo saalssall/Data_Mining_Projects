@@ -1,6 +1,6 @@
 # Data Mining Projects
 
-A collection of data mining projects implemented in R, covering regression, PCA, clustering, and association analysis.
+A collection of data mining projects implemented in R, completed as part of a **Data Science Minor** at the **American University of Afghanistan (AUAF)**, Summer 2021.
 
 ## Projects
 
